@@ -4,3 +4,6 @@
 def parrot(value = "Squawk!")
   return value
 end
+
+
+phrase = parrot
