@@ -8,4 +8,4 @@ end
 
 phrase = parrot()
 
-phrase = parrot()
+phrase = parrot("Pretty bird!")
