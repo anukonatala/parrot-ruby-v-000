@@ -6,6 +6,6 @@ def parrot(value = "Squawk!")
 end
 
 
-phrase = parrot()
+phrase = parrot("pretty bird")
 
 puts "phrase ==== #{phrase}"
